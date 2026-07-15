@@ -2,8 +2,6 @@
 
 Below you can see my analytics portfolio.
 
-The five public projects include:
-
 ### 1. NHS-Bed-Occupancy-Analysis (Data Wrangling, Excel, PowerBI)
 
 ### 2. NHS-Primary-Care-Access-Analysis (T-SQL, PowerBI)
